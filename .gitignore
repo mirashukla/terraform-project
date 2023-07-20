@@ -38,3 +38,5 @@ terraform.rc
 *.tfstate*
 
 .idea
+!/organisation-and-modules/consul/.terraform/
+!/organisation-and-modules/consul/.terraform.lock.hcl
