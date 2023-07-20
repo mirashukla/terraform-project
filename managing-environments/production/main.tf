@@ -32,7 +32,7 @@ locals {
 }
 
 module "web_app" {
-  source = "../../../06-organization-and-modules/web-app-module"
+  source = "/Users/mira.shukla/learningAndDevelopment/terraform-project/organisation-and-modules/web-app-module"
 
   # Input Variables
   bucket_prefix    = "web-app-data-${local.environment_name}"
