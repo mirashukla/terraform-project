@@ -1,2 +1,2 @@
-# terraform-project
+# terraform-project: learnings and set up
  
